@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "phantomjs": "^1.9.16"
+    "phantomjs": "^2.1.7"
   }
 }
